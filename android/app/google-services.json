@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105329108289",
+    "project_id": "dbo-management",
+    "storage_bucket": "dbo-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105329108289:android:74afd61da39cfd409c2dc0",
+        "android_client_info": {
+          "package_name": "com.example.bdo_pannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105329108289-sp1ua8pdj9gmke8hmjkde9qeidr7q5mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bdo_pannel",
+            "certificate_hash": "d0eb03c8467e62681f8cef5840fc1476b8116538"
+          }
+        },
+        {
+          "client_id": "105329108289-1u9609vf3052vn3gbvih5iqedvjh93ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXKpU2nHwxNvCagNjZdjsIlZpmnT8uXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105329108289-1u9609vf3052vn3gbvih5iqedvjh93ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
